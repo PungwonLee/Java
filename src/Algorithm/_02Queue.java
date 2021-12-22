@@ -5,7 +5,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Queue_ {
+public class _02Queue {
 
     public static class MyQueue<T>{
         private ArrayList<T> queue= new ArrayList<T>();

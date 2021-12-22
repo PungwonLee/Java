@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Array {
+public class _01Array {
     public static void main(String[] args){
         List<Integer> list1= new ArrayList<>();
         ArrayList<Integer> list2 = new ArrayList<>();
