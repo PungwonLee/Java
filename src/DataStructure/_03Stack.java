@@ -1,4 +1,4 @@
-package Algorithm;
+package DataStructure;
 //단점: 데이터 최대 갯수를 미리 정해야한다.
 
 import java.util.ArrayList;

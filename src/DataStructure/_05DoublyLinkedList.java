@@ -1,4 +1,4 @@
-package Algorithm;
+package DataStructure;
 
 public class _05DoublyLinkedList {
     public static class DoubleLinkedList<T> {
